@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # micro-reddit
-A project consist of ActiveRecord to make a micro-reddit with users, posts and comments.
+A project consists of ActiveRecord to make a micro-reddit with users, posts, and comments.
 
 ![screenshot](img/screenshot.jpg)
 
